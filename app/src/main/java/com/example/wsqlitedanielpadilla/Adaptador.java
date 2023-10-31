@@ -159,7 +159,7 @@ public class Adaptador extends BaseAdapter {
                 del.setNegativeButton("NO", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
-                        // No hacer nada si el usuario selecciona "NO"
+
                     }
                 });
                 del.show();
